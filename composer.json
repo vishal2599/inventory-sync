@@ -1,6 +1,6 @@
 {
     "name": "virdpress/virdpress-inventory-sync",
-    "description": "This plugin fetches products and Store Data from an external API",
+    "description": "This plugin fetches products and Shop Data from an external API. Note - **This plugin requires WooCommerce to store products**",
     "type": "plugin",
     "license": "GPL",
     "authors": [
