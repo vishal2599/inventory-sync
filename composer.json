@@ -1,0 +1,16 @@
+{
+    "name": "virdpress/virdpress-inventory-sync",
+    "description": "This plugin fetches products and Store Data from an external API",
+    "type": "plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Virdpress"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Virdpress\\": "./inc"}
+    }
+}
