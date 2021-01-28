@@ -1,0 +1,28 @@
+.virdpress_inventory_details{
+    margin-top:50px;
+}
+
+.virdpress_inventory_details .title{
+    font-size:1.5rem;
+}
+
+.virdpress_inventory_details .hours{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.virdpress_inventory_details .hours .day{
+    flex: 0 0 25%;
+}
+
+.virdpress_inventory_details .hours .day h4{
+    font-size: 0.875rem;
+}
+
+/* .virdpress_inventory_details .reviews {
+    margin-top: 40px;
+    margin-bottom: 100px;
+} */
+.virdpress_inventory_details .reviews .stars .checked{
+    color: orange;
+}
